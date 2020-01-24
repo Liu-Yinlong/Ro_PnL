@@ -8,7 +8,7 @@ The plot function aboxplot.m (Advanced Box Plot for Matlab) is from http://alex.
 ##
 We add our folder Ro_PnL, who has two functions: Ro_PnL and Ro_PnL_outlier.
 
-try "Ro_PnL_test_outliers.m" and you will get a compare result.
+try "Ro_PnL_test_outliers.m" and you will get a comparing result.
 ###
 ##
 
