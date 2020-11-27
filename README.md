@@ -1,4 +1,4 @@
-This is the Matlab code for absolute camera pose estimation from line correspondences using Branch-and-Bound.
+This is the Matlab code for absolute camera pose estimation from line correspondences using Branch-and-Bound. Paper: DOI: 10.1109/LRA.2020.3037843
 ###
 ##
 The framework is copying from "Pose Estimation from Line Correspondences using Direct Linear Transformation". Its url is: https://www.fit.vutbr.cz/~ipribyl/DLT-based-PnL/
