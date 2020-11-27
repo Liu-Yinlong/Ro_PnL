@@ -3,7 +3,8 @@ This is the Matlab code for absolute camera pose estimation from line correspond
 ###
 ##
 
-Globally Optimal Camera Orientation Estimation from Line Correspondences by BnB algorith->: DOI: 10.1109/LRA.2020.3037843
+Globally Optimal Camera Orientation Estimation from Line Correspondences by BnB algorith
+https://ieeexplore.ieee.org/document/9258393 ->: DOI: 10.1109/LRA.2020.3037843
 
 ###
 ##
